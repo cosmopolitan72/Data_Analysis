@@ -106,7 +106,20 @@ def prossing_():
                                     else:
                                         print(f"{colum} 컬럼이 존재하지 않습니다.")
 
-                                suppression_column(alias_df)
+                                #suppression_column(alias_df)
+
+                                def Suppression_Column_(alias_df):
+                                    colum = input("어떤 컬럼을 삭제할 건지 적으세요\n>")
+                                    if colum in alias_df.columns:
+                                        for i in range(len(colum)):
+                                                    alias_df.loc[alias_df(colum)] = None
+                                    
+                                        print(f"{colum} 컬럼이 삭제되었습니다.")
+                                        print(alias_df.head())
+                                    else:
+                                        print(f"{colum} 컬럼이 존재하지 않습니다.")
+                                    
+                                Suppression_Column_(alias_df)
                                 save_file(alias_df)
                                 return
 
