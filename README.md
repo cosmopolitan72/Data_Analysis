@@ -1,6 +1,6 @@
 # 👾 pseudonymization_tool
 
-### pseudonymization_tool 사용법
+## 💻 pseudonymization_tool 사용법
 1. (1) 가명처리 (2) 가명처리결합 중에 선택
 2. 가명처리 파일의 경로를 입력
 3. (1) 삭제 기술 or (2) 통계 도구 or (3) 일반화 기술(라운딩, 범주화..) 중에 선택
