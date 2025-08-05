@@ -1,8 +1,8 @@
 # 👾 pseudonymization_tool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge" width="120">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge" width="120">
 </p>
 
 ## 💻 pseudonymization_tool 사용법
