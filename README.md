@@ -1,6 +1,6 @@
 # 👾 pseudonymization_tool
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-1.0.3-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## 💻 pseudonymization_tool 사용법
