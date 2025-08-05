@@ -1,5 +1,8 @@
 # 👾 pseudonymization_tool
 
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 ## 💻 pseudonymization_tool 사용법
 1. (1) 가명처리 (2) 가명처리결합 중에 선택
 2. 가명처리 파일의 경로를 입력
