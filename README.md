@@ -1,7 +1,9 @@
 # 👾 pseudonymization_tool
 
-![version](https://img.shields.io/badge/version-1.0.3-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge">
+</p>
 
 ## 💻 pseudonymization_tool 사용법
 1. (1) 가명처리 (2) 가명처리결합 중에 선택
