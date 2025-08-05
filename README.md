@@ -1,7 +1,7 @@
 # 👾 pseudonymization_tool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge" width="120">
+  <img src="https://img.shields.io/badge/version-1.0.3-blue" alt="version badge" width="120">
   <img src="https://img.shields.io/badge/license-AGPL--3.0-red" alt="license badge" width="150">
 </p>
 
